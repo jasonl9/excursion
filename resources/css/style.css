@@ -23,3 +23,30 @@ a {
 .video {
     margin-bottom: 30px;
 }
+
+.title-2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.description {
+    font-size: 1.3125rem;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.camp {
+    margin-bottom: 20px;
+}
+
+.phone-icon {
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    margin: 20px 10px;
+}
